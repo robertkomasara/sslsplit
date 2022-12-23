@@ -1,2 +1,2 @@
 # sslsplit
-Https, smtp, imap interception test cases.
+Https, smtp, imap interception testing environment. 
